@@ -1,7 +1,7 @@
-import "./App.css";
+import React from "react";
 
-function App() {
-  return <div className="App">React Boilerplate</div>;
-}
+const App = () => {
+  return <div>React Starter Code</div>;
+};
 
 export default App;
